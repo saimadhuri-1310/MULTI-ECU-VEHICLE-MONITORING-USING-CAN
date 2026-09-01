@@ -191,7 +191,7 @@ LEFT / RIGHT / OFF
 
 ### Dashboard Display
 
-![Uploading display.png…]()
+https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/e49891a7-8eb6-461e-98c3-997ed1dae850.png
 
 
 ### Real-Time Monitoring
