@@ -191,7 +191,8 @@ LEFT / RIGHT / OFF
 
 ### Dashboard Display
 
-<img width="3113" height="3000" alt="IMG_0671" src="https://github.com/user-attachments/assets/b2afa677-492d-49e9-948f-1fc606788741" />
+![Uploading display.png…]()
+
 
 ### Real-Time Monitoring
 
