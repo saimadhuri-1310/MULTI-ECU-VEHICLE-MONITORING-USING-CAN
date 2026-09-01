@@ -228,7 +228,7 @@ LEFT / RIGHT / OFF
 
 ## 👨‍💻 Project By
 
-Pavani Viswanadula
+SaiMadhuri Samineedi
 
 B.Tech – Electronics and Communication Engineering
 
