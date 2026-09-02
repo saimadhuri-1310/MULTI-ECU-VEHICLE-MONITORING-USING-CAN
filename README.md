@@ -191,7 +191,7 @@ LEFT / RIGHT / OFF
 
 ### Dashboard Display
 
-https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/e49891a7-8eb6-461e-98c3-997ed1dae850.png
+<img width="3113" height="3000" alt="IMG_0671" src="https://github.com/user-attachments/assets/b2afa677-492d-49e9-948f-1fc606788741" />
 
 
 ### Real-Time Monitoring
